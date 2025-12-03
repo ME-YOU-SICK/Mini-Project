@@ -1,0 +1,5 @@
+{
+  "name": "Mini-Project",
+  "description": "A powerful, client-side PDF editor allowing structural changes, visual adjustments, text annotations, and metadata management without any AI dependencies.",
+  "requestFramePermissions": []
+}
